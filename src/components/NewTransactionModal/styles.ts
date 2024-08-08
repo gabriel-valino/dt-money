@@ -115,4 +115,3 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeProp
     background: ${props => props.theme['gray-600']};
   }
 `
-
