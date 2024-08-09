@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-08-08T23:30:36.742Z"
+    },
+    {
+      "id": 3,
+      "description": "Açai",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 20,
+      "createdAt": "2024-09-08T23:30:36.742Z"
     }
   ]
 }
